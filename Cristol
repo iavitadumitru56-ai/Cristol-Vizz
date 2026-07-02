@@ -1,0 +1,97 @@
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.TopRight.CoinsFrame.CoinsDisplay.CoinImage.Image = "rbxassetid://132193184826867"
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.TopRight.CoinsFrame.CoinsDisplay.Coins.TextColor3 = Color3.fromRGB(192, 94, 255)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.Title.TitleText.Text = "Your Toys"
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.Title.TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.Title.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabBar.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.FavoritesFrame.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.FavoritesFrame.Favorites.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.Toys.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.All.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.Food.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.Furniture.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.Lights.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.SortingTabs.Props.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.Contents.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.MeterFrame.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.MeterFrame.Meter.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.Title.TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.ToyInfoFrameHolder.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.Contents.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.Contents.BackgroundTransparency = 0
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.Title.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.All.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.Food.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.Furniture.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.Lights.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.Props.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyShop.SortingTabs.Toys.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyDestroy.MeterFrame.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyDestroy.MeterFrame.Meter.BackgroundColor3 = Color3.fromRGB(120, 120, 120)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyDestroy.Title.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyDestroy.Contents.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.ToyDestroy.Title.TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Settings.Contents.MaterialsFrame.Frame.BackgroundColor3 = Color3.fromRGB(75, 75, 75)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Settings.Title.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Settings.Title.TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Settings.Contents.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.Contents.BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.Title.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.Title.TitleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["Escape Faster"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["Farther Reach"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["Infinite House Time"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["More House Saves"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["More Slot Coins"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["Multi-Color Line"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
+
+game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Shop.ShopInfoFrameHolder["Raised Toys Limit"].BackgroundColor3 = Color3.fromRGB(90, 90, 90)
