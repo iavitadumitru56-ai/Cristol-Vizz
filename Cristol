@@ -1,6 +1,6 @@
 game:GetService("CoreGui").CloneMenu.TopRight.CoinsFrame.CoinsDisplay.CoinImage.Image = "rbxassetid://105743981555124"
 
-game:GetService("CoreGui").CloneMenu.TopRight.CoinsFrame.CoinsDisplay.Coins.TextColor3 = Color3.fromRGB(231, 226, 154)
+game:GetService("CoreGui").CloneMenu.TopRight.CoinsFrame.CoinsDisplay.Coins.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 game:GetService("Players").LocalPlayer.PlayerGui.MenuGui.Menu.TabContents.Toys.Title.TitleText.Text = "Your Toys"
 
