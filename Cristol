@@ -1,4 +1,4 @@
-game:GetService("CoreGui").CloneMenu.TopRight.CoinsFrame.CoinsDisplay.CoinImage.Image = "rbxassetid://105743981555124"
+game:GetService("CoreGui").CloneMenu.TopRight.CoinsFrame.CoinsDisplay.CoinImage.Image = "rbxassetid://123704145098585"
 
 game:GetService("CoreGui").CloneMenu.TopRight.CoinsFrame.CoinsDisplay.Coins.TextColor3 = Color3.fromRGB(255, 255, 255)
 
